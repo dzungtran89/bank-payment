@@ -1,0 +1,1 @@
+odoo16-addon-account_banking_pain_base @git+https://github.com/OCA/bank-payment/pull/974/head#subdirectory=setup/account_banking_pain_base
